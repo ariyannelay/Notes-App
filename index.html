@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>📝 Notes App</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <main>
+            <h1>📝 My Notes</h1>
+            <form id="form">
+                <input id="title" placeholder="Note title" required/>
+                <textarea id="body" placeholder="Write something..." required></textarea>
+                <button type="submit">➕ Add Note</button>
+            </form>
+            <div class="tools">
+                <input id="search" placeholder="🎁 Search notes..."/>
+                <select id="sort">
+                    <option value="new">🎊 Newest</option>
+                    <option value="old">🎊 Oldest</option>
+                    <option value="az">🔤 A-Z</option>
+                    <option value="za">🔤 Z-A</option>
+                </select>
+            </div>
+            <ul id="list"></ul>
+        </main>
+        <footer>
+            <p>Created by <strong>ariyan_nelay</strong> ❤️</p>
+        </footer>
+        <script src="app.js"></script>
+    </body>
+</html>
