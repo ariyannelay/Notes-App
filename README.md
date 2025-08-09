@@ -23,13 +23,6 @@
 
 ---
 
-## 🖼️ Screenshots
-
-![Notes App Screenshot](<img width="1024" height="830" alt="Screenshot 2025-08-10 012622" src="https://github.com/user-attachments/assets/770b8b72-b961-4bab-aace-f1c6d0772177" />
-)
-
----
-
 ## 🛠️ Usage
 
 1. **Add a note:** Enter a title and content, then click **Add**
