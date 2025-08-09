@@ -61,6 +61,4 @@ notes-app/
 
 ---
 
-## 📜 License
 
-MIT
